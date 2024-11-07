@@ -1,0 +1,3 @@
+### IMPLEMENTATION OF THE MINIMAX ALGORITHM FOR ARTIFICIAL INTELLIGENCE IN SIMPLE CHESS GAMES
+
+Because the Minimax algorithm in chess is based on the Minimax procedure to get the best move from the existing position. Each position has a value that can be generated from the best move, assuming that the AI ​​will always try to maximize value, when the opponent will try to minimize it. When the minimax procedure reaches the root of the search tree (the current position), it will produce the best move assuming the opponent will use the same evaluation criteria. Several versions of the program that have been created have mostly implemented the alpha-beta cutting algorithm.
